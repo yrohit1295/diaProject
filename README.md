@@ -1,4 +1,4 @@
-# DIA Project- Implementation of Distributed Methods on Online Streaming Movies and TV Shows Dataset
+# DIA Project- Implementation of MapReduce on Online Streaming Movies and TV Shows Dataset
 
 ## Structure of Project Folder
 
